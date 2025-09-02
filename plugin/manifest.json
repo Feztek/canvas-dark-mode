@@ -226,7 +226,7 @@
         "https://canvas.liverpool.ac.uk/*",
         "https://canvas.moravian.edu/*",
         "https://canvas-prod.ccsnh.edu/*",
-        "https://learn0.k12.com/*",
+        "https://learn0.k12.com/*"
       ],
       "css":[
           "css/styles.css"
